@@ -2,9 +2,8 @@
 
 Use of Tensorflow hub API for object detection
 
-# Input
-![](/test.mp4)
+
 
 
  # Output
-![](/output.mp4)
+![](1.png)
