@@ -1,4 +1,4 @@
-# Object-Detection with TF2 & displaying on colab
+# Object-Detection with TF2 & displaying video on colab
 
 Use of Tensorflow hub API for object detection
 
@@ -6,4 +6,4 @@ Use of Tensorflow hub API for object detection
 
 
  # Output
-![](1.png)
+![](2.png)
